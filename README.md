@@ -82,19 +82,19 @@ For this course, we will be needing **R** (the actual programming language) and 
 * Go to [R homepage](https://www.r-project.org/) and click the *download R* link. 
 * Choose a mirror (doesn't really matter) and afterwards your operating system.
   * If you are on Windows, click on "Install R for the first time" and "Download R 3.2.x for Windows" (x is 5 as of 25.04.2016).
-  * If you are on Mac, click on the file containing the latest version of R under "Files." (R-3.2.4.pkg as of 25.04.2016).
-* Follow the regular installation steps (if asked choose 64 bit R)
+  * If you are on Mac, click on the file containing the latest version of R under *Files* (R-3.2.4.pkg as of 25.04.2016).
+* Follow the regular installation steps (if asked choose 64 bit R).
 
 * Go to [RStudio download page](https://www.rstudio.com/products/rstudio/download/)
-* Under "Installers for Supported Platforms" choose your own OS. (RStudio 0.99.896 as of 25.04.2016)
+* Under *Installers for Supported Platforms* choose your own OS. (RStudio 0.99.896 as of 25.04.2016)
 * Follow the regular installation steps
 
 Lectures
 --------
-* [Lecture 1](https://github.com/ogencoglu/R_for_VTT/tree/master/Lecture_1)
-* [Lecture 2](https://github.com/ogencoglu/R_for_VTT/tree/master/Lecture_2)
-* [Lecture 3](https://github.com/ogencoglu/R_for_VTT/tree/master/Lecture_3)
-* [Lecture 4](https://github.com/ogencoglu/R_for_VTT/tree/master/Lecture_4)
+* [Lecture 1](https://github.com/ogencoglu/R_for_VTT/tree/master/Lectures/Lecture_1)
+* [Lecture 2](https://github.com/ogencoglu/R_for_VTT/tree/master/Lectures/Lecture_2)
+* [Lecture 3](https://github.com/ogencoglu/R_for_VTT/tree/master/Lectures/Lecture_3)
+* [Lecture 4](https://github.com/ogencoglu/R_for_VTT/tree/master/Lectures/Lecture_4)
 
 
 Exercises
