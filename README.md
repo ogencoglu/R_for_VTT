@@ -1,4 +1,4 @@
-R Course for VTT Technical Research Center
+R Course for VTT Technical Research Center of Finland
 =====
 
 Dear data-savvy colleagues, you have landed on the homepage of R programming language course, given by me (Ouz).
