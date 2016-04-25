@@ -3,7 +3,7 @@ R Course for VTT Technical Research Center of Finland
 
 Dear data-savvy colleagues, you have landed on the homepage of R programming language course, given by me (Ouz).
 Everything you will need for this course will appear (somewhat on-the-go) under this repository.
-This course is aimed for anyone who has anything to do with any kind of *data*. It is composed of online, real-time lectures & some exercises for post-lecture fun. Lectures will be hands-on and practical (still accompanied by short lecture notes).
+This course is aimed for anyone who has anything to do with any kind of *data*. It is composed of online, real-time lectures & some exercises for post-lecture fun (exercises are optional, fun is definitely optional). Lectures will be hands-on and practical (still accompanied by short lecture notes).
 
 I will try to adjust the implementation (content, pace, requirements etc.) according to your needs and will try to add some homour and games whenever possible.
 Please feel free to contact me anytime for questions, comments and/or feedback.
@@ -99,13 +99,14 @@ Lectures
 
 Exercises
 -------
-There will be exercises related to the lecture material almost as if you are not spending enough time in front of your computer day and night. 
+There will be exercises related to the lectures almost as if you are not spending enough time in front of your computer day and night. 
+These exercises are not mandatory at all.
 I will try to to gamify these as much as possible and hopefully provide some options to choose from as well.
 
 
 To-do
 -------
-This part is basically for myself
+This part is basically for myself.
 - [x] Create a course page
 - [x] Add instructions for installation R & RStudio
 - [x] Publish the course content
