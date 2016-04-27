@@ -3,6 +3,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 R Course for VTT Technical Research Center of Finland
 =====
@@ -121,7 +125,7 @@ This part is basically for myself.
 - [x] Add instructions for installation R & RStudio
 - [x] Publish the course content
 - [x] Add logos
-- [ ] Check the code in Linux, Mac and Windows machines just in case
+- [x] Check the code in Linux, Mac and Windows machines just in case
 - [ ] Lecture 1 notes & exercises
 - [ ] Brush up your statistics knowledge and double check the results in python
 - [ ] Lecture 2 notes & exercises
