@@ -1,5 +1,8 @@
-<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png" align="left"  height="100" ></a>
-<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/R_logo.png" align="right"  height="100" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png" align="left"  height="120" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/R_logo.png" align="right"  height="120" ></a>
+<br>
+<br>
+<br>
 
 R Course for VTT Technical Research Center of Finland
 =====
