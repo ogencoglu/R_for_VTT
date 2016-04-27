@@ -85,6 +85,7 @@ For this course, we will be needing **R** (the actual programming language) and 
   * If you are on Windows, click on "Install R for the first time" and "Download R 3.2.x for Windows" (x is 5 as of 25.04.2016).
   * If you are on Mac, click on the file containing the latest version of R under *Files* (R-3.2.4.pkg as of 25.04.2016).
 * Follow the regular installation steps (if asked choose 64 bit R).
+
 ---
 * Go to [RStudio download page](https://www.rstudio.com/products/rstudio/download/)
 * Under *Installers for Supported Platforms* choose your own OS. (RStudio 0.99.896 as of 25.04.2016)
