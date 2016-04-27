@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png =250x "VTT")
+
 R Course for VTT Technical Research Center of Finland
 =====
 
@@ -17,7 +20,7 @@ Contents of the Course
   * Basic data types, functions
   * Reading & writing data
   * Debugging
-:o: Data frames :heavy_check_mark:
+* Data frames :heavy_check_mark:
   * Data frame paradigm and why it is cool
 * Data munging & wrangling :heavy_check_mark:
   * *melt*, *reshape*, *cast*, *aggregate* etc.
@@ -69,10 +72,12 @@ Schedule
 --------
 All lectures are at 14:00 - 16:00 (EEST). A link for attending the lectures will be provided to each one of you via email.
 
-* Lecture 1 - Wednesday 27.04.2016
-* Lecture 2 - Tuesday 03.05.2016
-* Lecture 3 - Wednesday 04.05.2016
-* Lecture 4 - Wednesday 11.05.2016
+| Lecture   |       Date           |                    |
+---         |   ---                |                    |
+| Lecture 1 | Wednesday 27.04.2016 | :heavy_check_mark: |
+| Lecture 2 | Tuesday 03.05.2016   |                    |
+| Lecture 3 | Wednesday 04.05.2016 |                    |
+| Lecture 4 | Wednesday 11.05.2016 |                    |
 
 
 Getting Ready
