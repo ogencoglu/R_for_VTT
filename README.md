@@ -10,18 +10,19 @@ Please feel free to contact me anytime for questions, comments and/or feedback.
 
 Contents of the Course
 --------
-* Basics of R & RStudio 
+* Basics of R & RStudio :heavy_check_mark:
   * What exactly is R? 
   * What about this RStudio thingy? 
   * When to use / avoid R?
   * Basic data types, functions
   * Reading & writing data
   * Debugging
-* Data frames 
+:o: Data frames :heavy_check_mark:
   * Data frame paradigm and why it is cool
-* Data munging & wrangling
-  * *applys*, *melt*, *reshape* etc.
+* Data munging & wrangling :heavy_check_mark:
+  * *melt*, *reshape*, *cast*, *aggregate* etc.
   * *plyr* & *dplyr* packages
+  * *applys*
 * What to do with missing data? 
 * Dates 
   * *lubridate* package
