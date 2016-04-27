@@ -1,5 +1,6 @@
 
-![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png =250x "VTT")
+![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png =550x "VTT")
+![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/R_logo.png =350x "R")
 
 R Course for VTT Technical Research Center of Finland
 =====
@@ -73,7 +74,7 @@ Schedule
 All lectures are at 14:00 - 16:00 (EEST). A link for attending the lectures will be provided to each one of you via email.
 
 | Lecture   |       Date           |                    |
----         |   ---                |                    |
+| ---       |   ---                |      ---           |
 | Lecture 1 | Wednesday 27.04.2016 | :heavy_check_mark: |
 | Lecture 2 | Tuesday 03.05.2016   |                    |
 | Lecture 3 | Wednesday 04.05.2016 |                    |
