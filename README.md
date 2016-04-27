@@ -1,6 +1,5 @@
-
-![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png =550x "VTT")
-![alt text](https://github.com/ogencoglu/R_for_VTT/blob/master/Images/R_logo.png =350x "R")
+<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/VTT_logo.png" align="left"  height="100" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/R_for_VTT/blob/master/Images/R_logo.png" align="right"  height="100" ></a>
 
 R Course for VTT Technical Research Center of Finland
 =====
@@ -118,7 +117,7 @@ This part is basically for myself.
 - [x] Create a course page
 - [x] Add instructions for installation R & RStudio
 - [x] Publish the course content
-- [ ] Add logos
+- [x] Add logos
 - [ ] Check the code in Linux, Mac and Windows machines just in case
 - [ ] Lecture 1 notes & exercises
 - [ ] Brush up your statistics knowledge and double check the results in python
