@@ -38,13 +38,13 @@ Contents of the Course
   * base
   * *ggplot2*
   * *lattice*
+* Statistics for researchers
+  * Answering the question: *Conference deadline is in 1 week, so which one of this is the p-value?*
+  * Useful statistical tests
 * Markdown & reporting
   * Reproducible research
   * *knitr*
   * Interactive plots
-* Statistics for researchers
-  * Answering the question: *Conference deadline is in 1 week, so which one of this is the p-value?*
-  * Useful statistical tests
 * What to do with missing data? 
 * Dates 
   * *lubridate* package
@@ -66,7 +66,7 @@ Contents of the Course
   * Time series forecasting
   * Network analysis
   * Survival analysis
-  * Anomaly detection
+  * Anomaly/outlier detection
 * Parallel processing
   * Running your code on multiple cores
 * Slightly fancier visualizations
@@ -129,9 +129,9 @@ This part is basically for myself.
 - [x] Publish the course content
 - [x] Add logos
 - [x] Check the code in Linux, Mac and Windows machines just in case
-- [ ] Lecture 1 notes & exercises
-- [ ] Brush up your statistics knowledge and double check the results in python
-- [ ] Lecture 2 notes & exercises
+- [x] Lecture 1 notes & exercises
+- [x] Brush up your statistics knowledge and double check the results in python
+- [x] Lecture 2 notes & exercises
 - [ ] Collect opinions for application examples
 - [ ] Ease down the machine learning stuff
 - [ ] Lecture 3 notes & exercises
