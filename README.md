@@ -33,11 +33,11 @@ Contents of the Course
   * *melt*, *reshape*, *cast*, *aggregate* etc.
   * *plyr* & *dplyr* packages
   * *applys*
-* Reading and writing data
-* Visualization & plotting
+* Reading and writing data :heavy_check_mark:
+* Visualization & plotting :heavy_check_mark:
   * base
-  * *ggplot2*
   * *lattice*
+  * *ggplot2*
 * Statistics for researchers
   * Answering the question: *Conference deadline is in 1 week, so which one of this is the p-value?*
   * Useful statistical tests
@@ -85,7 +85,7 @@ All lectures are at 14:00 - 16:00 (EEST). A link for attending the lectures will
 | Lecture   |       Date           |                    |
 | ---       |   ---                |      ---           |
 | Lecture 1 | Wednesday 27.04.2016 | :heavy_check_mark: |
-| Lecture 2 | Tuesday 03.05.2016   |                    |
+| Lecture 2 | Tuesday 03.05.2016   | :heavy_check_mark: |
 | Lecture 3 | Wednesday 04.05.2016 |                    |
 | Lecture 4 | Wednesday 11.05.2016 |                    |
 
@@ -106,6 +106,9 @@ For this course, we will be needing **R** (the actual programming language) and 
 * Under *Installers for Supported Platforms* choose your own OS. (RStudio 0.99.896 as of 25.04.2016)
 * Follow the regular installation steps
 
+---
+Required packages/libraries for the course are listed in [required_packages.txt](https://github.com/ogencoglu/R_for_VTT/blob/master/required_packages.txt)
+
 Lectures
 --------
 * [Lecture 1](https://github.com/ogencoglu/R_for_VTT/tree/master/Lectures/Lecture_1)
@@ -119,6 +122,7 @@ Exercises
 There will be exercises related to the lectures almost as if you are not spending enough time in front of your computer day and night. 
 These exercises are not mandatory at all.
 I will try to to gamify these as much as possible and hopefully provide some options to choose from as well.
+All exercises have the same deadline: 31.05.2016
 
 
 To-do
@@ -132,8 +136,8 @@ This part is basically for myself.
 - [x] Lecture 1 notes & exercises
 - [x] Brush up your statistics knowledge and double check the results in python
 - [x] Lecture 2 notes & exercises
-- [ ] Collect opinions for application examples
-- [ ] Ease down the machine learning stuff
+- [x] Collect opinions for application examples
+- [x] Ease down the machine learning stuff
 - [ ] Lecture 3 notes & exercises
 - [ ] Prepare the actual lecture 4
 - [ ] Lecture 4 notes & exercises
