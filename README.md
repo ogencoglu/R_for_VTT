@@ -33,9 +33,7 @@ Contents of the Course
   * *melt*, *reshape*, *cast*, *aggregate* etc.
   * *plyr* & *dplyr* packages
   * *applys*
-* What to do with missing data? 
-* Dates 
-  * *lubridate* package
+* Reading and writing data
 * Visualization & plotting
   * base
   * *ggplot2*
@@ -44,13 +42,18 @@ Contents of the Course
   * Reproducible research
   * *knitr*
   * Interactive plots
-* Machine learning
-  * Some cool stuff
-  * More cool stuff
 * Statistics for researchers
   * Answering the question: *Conference deadline is in 1 week, so which one of this is the p-value?*
   * Useful statistical tests
-  * Confidence intervals
+* What to do with missing data? 
+* Dates 
+  * *lubridate* package
+* Signal processing
+  * Filter design
+  * Frequency domain analysis
+* Machine learning
+  * Some cool stuff
+  * More cool stuff
 * Profiling your code
   * Answering the question: *I already had lunch and 2 coffee breaks, when will I get my results?*
   * Tips for speeding up the code
