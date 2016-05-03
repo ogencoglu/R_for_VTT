@@ -16,7 +16,7 @@ qnorm(0.5)
 rnorm(50)
 
 dnorm(1, 2, 5)  # Value of normal distribution (mean 2, std 5) at point 1
-pnorm(1)        # Cumulative value of normal distribution (unity mean and variance) at point 1
+pnorm(1)        # Cumulative value of normal distribution at point 1
 
 # If there are twelve cars crossing a bridge per minute on average, find the 
 # probability of having seventeen or more cars crossing the bridge in a 
@@ -26,7 +26,7 @@ pnorm(1)        # Cumulative value of normal distribution (unity mean and varian
 ppois(16, lambda=12, lower = FALSE)
 
 # Sampling
-sample(seq(5), 50, prob = c(0.3, 0.4, 0.1, 0.1, 0.1), replace = T)
+sample(seq(5), 50, prob = c(0.3, 0.4, 0.1, 0.1, 0.1), replace = TRUE)
 
 # Common statistical tests
 
