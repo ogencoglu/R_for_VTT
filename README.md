@@ -124,6 +124,10 @@ These exercises are not mandatory at all.
 I will try to to gamify these as much as possible and hopefully provide some options to choose from as well.
 All exercises have the same deadline: 31.05.2016
 
+* [Exercise 1](https://github.com/ogencoglu/R_for_VTT/tree/master/Exercises/Exercise_1)
+* [Exercise 2](https://github.com/ogencoglu/R_for_VTT/tree/master/Exercises/Exercise_2)
+* [Exercise 3](https://github.com/ogencoglu/R_for_VTT/tree/master/Exercises/Exercise_3)
+* [Exercise 4](https://github.com/ogencoglu/R_for_VTT/tree/master/Exercises/Exercise_4)
 
 To-do
 -------
