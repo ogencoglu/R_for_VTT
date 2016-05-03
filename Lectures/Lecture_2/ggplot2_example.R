@@ -18,7 +18,7 @@ library(ggplot2)
 g1 <- ggplot(nmmaps, aes(date, temp)) + geom_point(color = "firebrick")
 g1
 
-g2 <- ggplot(nmmaps, aes(date, temp, color = factor(season))) + geom_point()
+g2 <- ggplot(nmmaps, aes(date, temp, color = season)) + geom_point()
 g2
 
 # facet plot
