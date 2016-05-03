@@ -25,7 +25,7 @@ write.csv(dat_sub, "ACS_sub.csv")
 
 # save the entire R session
 save(list = ls(), file = "all.Rdata")
-save(list = c(dat, dat2), file = ".subset.Rdata")
+save(list = c(dat, dat2), file = "subset.Rdata")
 
 # load R session
 load("all.Rdata")
