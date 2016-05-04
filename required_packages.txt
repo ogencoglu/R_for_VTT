@@ -18,6 +18,7 @@ mice
 nnet
 nycflights13
 plyr
+randomForest
 reshape
 reshape
 reshape2
