@@ -24,6 +24,7 @@ lm(medv ~ ptratio + rad, data=original, na.action=na.omit)
 
 # mean/median imputation
 library(Hmisc)
+library(DMwR)
 impute(bh$ptratio, mean)  # replace with mean
 impute(bh$ptratio, median)  # median
 impute(bh$ptratio, 20)  # replace specific number
@@ -31,7 +32,6 @@ predicteds <- rep(mean(bh$ptratio, na.rm=T), length(actuals))
 regr.eval(actuals, predicteds)
 
 # kNN imputation
-library(DMwR)
 knnOutput <- knnImputation(bh[, !names(bh) %in% "medv"])  # get rid of targets
 anyNA(knnOutput)
 predicteds <- knnOutput[is.na(bh$ptratio), "ptratio"]
