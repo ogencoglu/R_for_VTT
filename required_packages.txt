@@ -1,3 +1,5 @@
+DMwR
+Hmisc
 R.matlab
 RISmed
 caret
@@ -12,6 +14,7 @@ gtrendsR
 knitr
 lattice
 lubridate
+mice
 nnet
 nycflights13
 plyr
@@ -19,6 +22,7 @@ reshape
 reshape
 reshape2
 rmarkdown
+rpart
 rworldmap
 signal
 survival
