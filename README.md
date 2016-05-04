@@ -38,20 +38,18 @@ Contents of the Course
   * base
   * *lattice*
   * *ggplot2*
-* Statistics for researchers
+* Statistics for researchers :heavy_check_mark:
   * Answering the question: *Conference deadline is in 1 week, so which one of this is the p-value?*
   * Useful statistical tests
-* Markdown & reporting
+* Markdown & reporting :heavy_check_mark:
   * Reproducible research
   * *knitr*
   * Interactive plots
-* What to do with missing data? 
-* Dates 
-  * *lubridate* package
-* Signal processing
+* What to do with missing data? :heavy_check_mark:
+* Signal processing :heavy_check_mark:
   * Filter design
   * Frequency domain analysis
-* Machine learning
+* Machine learning :heavy_check_mark:
   * Some cool stuff
   * More cool stuff
 * Profiling your code
@@ -86,7 +84,7 @@ All lectures are at 14:00 - 16:00 (EEST). A link for attending the lectures will
 | ---       |   ---                |      ---           |
 | Lecture 1 | Wednesday 27.04.2016 | :heavy_check_mark: |
 | Lecture 2 | Tuesday 03.05.2016   | :heavy_check_mark: |
-| Lecture 3 | Wednesday 04.05.2016 |                    |
+| Lecture 3 | Wednesday 04.05.2016 | :heavy_check_mark: |
 | Lecture 4 | Wednesday 11.05.2016 |                    |
 
 
