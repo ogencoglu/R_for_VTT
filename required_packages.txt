@@ -5,9 +5,14 @@ RISmed
 caret
 changepoint
 cluster
+devtools
+doSNOW
 dplyr
 dygraphs
 e1071
+earth
+foreach
+forecast
 ggplot2
 glmnet
 gtrendsR
@@ -17,6 +22,9 @@ lubridate
 mice
 nnet
 nycflights13
+outliers
+parallel
+party
 plyr
 randomForest
 reshape
@@ -30,6 +38,7 @@ survival
 swirl
 tidyr
 tree
+tseries
 tsoutliers
 wikipediatrend
 xlsx
