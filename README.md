@@ -52,12 +52,12 @@ Contents of the Course
 * Machine learning :heavy_check_mark:
   * Some cool stuff
   * More cool stuff
-* Profiling your code
+* Profiling your code :heavy_check_mark:
   * Answering the question: *I already had lunch and 2 coffee breaks, when will I get my results?*
   * Tips for speeding up the code
 * Interacting with other languages and environments (tentative)
   * python, SQL, MATLAB, LATEX, mongodb etc.
-* Applications (some of the below, suggestions are welcome)
+* Applications (some of the below, suggestions are welcome) :heavy_check_mark:
   * Text mining
   * Mining PubMed
   * Mining Wikipedia hits
@@ -65,14 +65,8 @@ Contents of the Course
   * Network analysis
   * Survival analysis
   * Anomaly/outlier detection
-* Parallel processing
+* Parallel processing :heavy_check_mark:
   * Running your code on multiple cores
-* Slightly fancier visualizations
-  * Sankey 
-  * Likert
-  * Calender views 
-  * Heatmaps 
-  * Real maps
 * Shiny app (tentative)
 
   
