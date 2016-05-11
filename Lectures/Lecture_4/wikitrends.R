@@ -14,6 +14,7 @@ wp <- wp_trend(page = c("Ukraina", "Vladimir Putin"),
                    lang = "fi")
 cor.test(wp[wp$title=="Ukraina",]$count, wp[wp$title=="Vladimir_Putin",]$count)
 
+# plot
 library(ggplot2)
 p <- ggplot(wp, aes(x=date, y=count, color=title)) + geom_line()
 p 
