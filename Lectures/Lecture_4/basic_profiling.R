@@ -6,7 +6,7 @@
 # -------------- Basic Profiling --------------
 
 # create some fake data
-m <- 1000 # 50000
+m <- 50000 # 50000
 n <- 50
 X <- matrix(rnorm(m * n, mean = 10, sd = 3), nrow = m)
 grp <- rep(1:2, each = n / 2)
@@ -22,8 +22,10 @@ for(i in 1:m) {
 # Interpretation: 
 # user time: time charged to the CPU(s) for this expression
 # elapsed time: "wall clock" time
+# Elapsed time may be greater than user time: CPU spends a lot of time waiting around
+# Elapsed time may be smaller than the user time: multicore processing
 
-system.time(vtt <- readLines("https://github.com/ogencoglu/R_for_VTT"))
+#system.time(vtt <- readLines("https://github.com/ogencoglu/R_for_VTT"))
 
 # apply
 compT <- function(x, grp){

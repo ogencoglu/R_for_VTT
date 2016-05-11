@@ -16,13 +16,14 @@ par(mfrow=c(1, 2))
 plot(tsData)
 plot(resid(trModel), type="l")  # resid(trModel) contains the de-trended series.
 
-# de-seaseonalize
+# de-seasonalize
 library(forecast)
 TS <- AirPassengers
 dec2 <- stl(TS,"periodic")  # decompose the TS
 ts_sa <- seasadj(dec2)  # de-seasonalize
+par(mfrow=c(1, 2))
 plot(AirPassengers, type="l")  # original series
 plot(ts_sa, type="l")  # seasonal adjusted
 
 library(tseries)
-adf.test(tsData) # p-value < 0.05 indicates the TS is stationary
+adf.test(EuStockMarkets[, 1]) # p-value < 0.05 indicates the TS is stationary

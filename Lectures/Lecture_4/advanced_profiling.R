@@ -43,9 +43,9 @@ summaryRprof("exampleApply.out")
 devtools::install_github("rstudio/profvis")
 
 library(profvis)
+library(ggplot2)
 
 profvis({
-        library(ggplot2)
         g <- ggplot(diamonds, aes(carat, price)) + geom_point(size = 1, alpha = 0.2)
         print(g)
 })

@@ -85,7 +85,7 @@ All lectures are at 14:00 - 16:00 (EEST). A link for attending the lectures will
 | Lecture 1 | Wednesday 27.04.2016 | :heavy_check_mark: |
 | Lecture 2 | Tuesday 03.05.2016   | :heavy_check_mark: |
 | Lecture 3 | Wednesday 04.05.2016 | :heavy_check_mark: |
-| Lecture 4 | Wednesday 11.05.2016 |                    |
+| Lecture 4 | Wednesday 11.05.2016 | :heavy_check_mark: |
 
 
 Getting Ready
@@ -140,9 +140,9 @@ This part is basically for myself.
 - [x] Lecture 2 notes & exercises
 - [x] Collect opinions for application examples
 - [x] Ease down the machine learning stuff
-- [ ] Lecture 3 notes & exercises
-- [ ] Prepare the actual lecture 4
-- [ ] Lecture 4 notes & exercises
+- [x] Lecture 3 notes & exercises
+- [x] Prepare the actual lecture 4
+- [x] Lecture 4 notes & exercises
 - [ ] Collect feedback
 - [ ] Have a cold beer
 
