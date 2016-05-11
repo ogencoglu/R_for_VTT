@@ -23,7 +23,6 @@ mice
 nnet
 nycflights13
 outliers
-parallel
 party
 plyr
 randomForest
